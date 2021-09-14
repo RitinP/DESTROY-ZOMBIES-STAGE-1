@@ -1,1 +1,2 @@
-# DESTROY-ZOMBIES-STAGE-1
+# zombie-crush-3
+project solution of c31
